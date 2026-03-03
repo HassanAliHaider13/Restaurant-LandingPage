@@ -1,148 +1,151 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <meta name="description" content="Free one-page React restaurant template – Built with Tailwind CSS, Vite, and TypeScript." />
-  <meta name="keywords" content="react restaurant website, one-page food template, tailwind CSS landing page, vite react starter, restaurant homepage react, modern cafe website template, SEO friendly food site, fast react template, free react UI kit, responsive react template" />
-  <meta name="author" content="Themixly Web" />
-  <link rel="canonical" href="https://themixly.com/themes/react-restaurant-cafe-one-page-template/" />
-</head>
-<body>
-<h1>RestoOne – One Page React Template for Restaurants, Cafes & Food Brands</h1>
+# Aal-E-Imran – Pakistani Restaurant Landing Page
 
-<h2>Introduction</h2>
-<p>RestoOne is a free, modern, and responsive React one-page template built for restaurants, cafes, bistros, and gourmet food brands. Crafted with React 18, Tailwind CSS, Vite, and TypeScript, this template is optimized for speed, SEO, and elegant UI — ideal for creating high-converting landing pages or digital menus for food businesses.</p>
+A modern, responsive landing page for **Aal-E-Imran**, a Pakistani/desi restaurant, built with **React**, **Vite**, and **Tailwind CSS**.  
+This repo contains a fully revamped hero, about/vision, menu highlight, best sellers spotlight, and contact/review experience – optimized for conversions and smooth scrolling.
 
-<h2>🔗 Live Preview & Download</h2>
-<ul>
-  <li>🚀 <a href="https://themixly.com/preview/754/react-restaurant-cafe-one-page-template/" target="_blank"> Live Demo – RestoOne Template</a></li>
-  <li>🛒 <a href="https://themixly.com/themes/react-restaurant-cafe-one-page-template/" target="_blank"> Buy Full Version – Pro Template on Themixly</a></li>
-  <li>📦 <a href="https://github.com/themixlyweb/react-restaurant-website-template" target="_blank"> Download from GitHub (Free)</a></li>
-</ul>
+---
 
-<h2>🧩 Feature Comparison: GitHub Free vs Themixly Pro</h2>
-<table>
-  <thead>
-    <tr><th>Feature</th><th>GitHub Free Version</th><th>Themixly Full Version</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>React 18 + TypeScript + Vite</td><td>✅</td><td>✅</td></tr>
-    <tr><td>Tailwind CSS</td><td>✅</td><td>✅</td></tr>
-    <tr><td>One-page Layout</td><td>✅</td><td>✅</td></tr>
-    <tr><td>Reservation/Booking Form</td><td>❌</td><td>✅</td></tr>
-    <tr><td>Menu Tabs Section</td><td>❌</td><td>✅</td></tr>
-    <tr><td>Custom Components</td><td>Limited</td><td>Full UI Kit Included</td></tr>
-    <tr><td>SEO Optimized Pages</td><td>Basic</td><td>Advanced</td></tr>
-    <tr><td>Responsive for All Devices</td><td>✅</td><td>✅</td></tr>
-    <tr><td>Lifetime Updates</td><td>Community Only</td><td>Lifetime Free Updates</td></tr>
-    <tr><td>Licensing</td><td>MIT (Free)</td><td>Commercial Use Allowed</td></tr>
-    <tr><td>Premium Support</td><td>Community via GitHub</td><td>1:1 Support via Email</td></tr>
-  </tbody>
-</table>
+## ✨ Features
 
-<h3>👉 <a href="https://themixly.com/themes/react-restaurant-cafe-one-page-template/" target="_blank"> Upgrade to Pro Version</a></h3>
+- **Revamped hero section**
+  - Full-screen background image with dark gradient overlay for readability
+  - Clear headline and subheading describing authentic Pakistani flavors
 
-<h2>🧠 Template Use Cases</h2>
-<p>RestoOne is perfect for:</p>
-<ul>
-  <li>Restaurants, cafes, and coffee shops</li>
-  <li>Bakeries and dessert boutiques</li>
-  <li>Fast food chains and quick-service restaurants</li>
-  <li>Cloud kitchens and food delivery startups</li>
-  <li>Gourmet or organic food brands</li>
-  <li>One-page restaurant menu or landing page websites</li>
-</ul>
+- **About / Vision section**
+  - Brand story focused on tradition, “asli desi zaiqa”, and hospitality
+  - Highlighted key stats (signature dishes, average rating, happy customers)
+  - Elegant brand image with gold accent border and floating info card
 
-<h2>💡 Key Features</h2>
-<ul>
-  <li>Built with React 18, TypeScript, and Vite</li>
-  <li>Styled using Tailwind CSS for speed and consistency</li>
-  <li>Fully responsive with mobile-first grid layout</li>
-  <li>One-page layout with key sections: Hero, About, Menu, Chefs, Contact</li>
-  <li>Clean and modern UI for food & beverage businesses</li>
-  <li>Lightweight and fast loading</li>
-  <li>MIT License – free for personal and educational projects</li>
-</ul>
+- **Menu highlights**
+  - Focus on core dishes like **desi chicken**, **aseel chicken salan**, **haleem**, and **channay**
+  - Designed to be easily extended with more items or categories
 
-<h2>📸 Screenshots</h2>
-<figure>
-  <figcaption>Includes sections like Hero, About, Menu, Chefs, Contact.</figcaption><br/>
-  <img src="https://themixly.com/wp-content/uploads/2025/06/RestoOne-Product-Detail-Image1-scaled.png" alt="RestoOne – Page Preview">
-</figure>
+- **best sellers**
+  - Dedicated section to introduce best selling items
+  - Layout ready for photos, names, and short bios
 
-<h2>✨ Why Choose RestoOne?</h2>
-<ul>
-  <li>Designed for restaurants, cafes, and food startups</li>
-  <li>Uses modern tech: React 18, Tailwind CSS, Vite, and TypeScript</li>
-  <li>Fully responsive layout that looks great on any device</li>
-  <li>Clean, component-based code that’s easy to customize</li>
-  <li>Fast and SEO-optimized for better online visibility</li>
-  <li>Free to use with a seamless upgrade path to Pro</li>
-</ul>
+- **Contact / Review form**
+  - Simple section where guests can share feedback or inquiries
+  - Ideal entry point for future “reservation” or “order now” integration
 
-<h2>🛠️ Tech Stack</h2>
-<ul>
-  <li>⚛️ React 18</li>
-  <li>🎨 Tailwind CSS</li>
-  <li>⚡ Vite (for blazing-fast builds)</li>
-  <li>🧠 TypeScript (TSX support)</li>
-  <li>🖥️ Compatible with all major browsers</li>
-</ul>
+- **Smooth scrolling & micro-animations**
+  - Click-to-scroll navigation between sections
+  - AOS-powered fade-in effects for a polished, modern feel
 
-<h2>🚀 Getting Started</h2>
-<pre><code>npm install       # Install dependencies
-npm run dev       # Start development server
-npm run build     # Build for production</code></pre>
+- **Responsive & theme-ready**
+  - Mobile-first layout that adapts to all screen sizes
+  - Utility-first styling via Tailwind for quick customization
 
-<h3>📁 Folder Structure</h3>
-<pre><code>RestoOne/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── images/
-│   ├── components/
-│   ├── data/
-│   ├── pages/
-├── README.md
-└── package.json</code></pre>
+---
 
-<h2>📦 What’s Included in the Free GitHub Version?</h2>
-<p>The free version of RestoOne includes:</p>
-<ul>
-  <li>✅ One-page layout with sections: Hero, About, Chefs</li>
-  <li>✅ Clean header and footer</li>
-  <li>✅ Tailwind-based styling</li>
-  <li>✅ Fully responsive design</li>
-  <li>✅ MIT License – free for personal and educational use</li>
-</ul>
-<p>🔒 Full features like menu tabs, contact form, and more are available in the premium version.</p>
-<p>👉 <a href="https://themixly.com/themes/react-restaurant-cafe-one-page-template/" target="_blank">Buy the Complete Template from Themixly →</a></p>
+## 🛠 Tech Stack
 
-<h2>📝 License</h2>
-<p>This template is licensed under the <a href="https://github.com/themixlyweb/react-restaurant-website-template/blob/main/LICENSE" target="_blank">MIT License</a>.<br>
-You may use this version for personal and educational purposes.<br>
+- **Frontend**: React 18
+- **Build tool**: Vite
+- **Styling**: Tailwind CSS, utility classes
+- **Animations**: AOS (Animate On Scroll)
+- **UI utilities**:
+  - Radix UI primitives (`@radix-ui/react-slot`, `@radix-ui/react-toast`, `@radix-ui/react-tooltip`)
+  - `lucide-react` for icons (available for use)
+  - `class-variance-authority`, `clsx`, `tailwind-merge` for styling patterns
+- **Routing**: `react-router-dom`
+- **Data fetching state (available)**: `@tanstack/react-query`
+- **Notifications (available)**: `sonner`
+- **Theming (available)**: `next-themes`
 
-<h2>📢 Support & Contributions</h2>
-<ul>
-  <li>⭐ Star this repo if you find it useful</li>
-  <li>Share with developers or restaurant owners</li>
-  <li>Want full features & commercial license</li>
-  <li>👉 Go Premium with <a href="https://themixly.com" target="_blank">Themixly</a></li>
-</ul>
+> Not all utilities are necessarily used on the landing page yet, but they are installed and ready for future expansion.
 
-<h2>🔗 Other Templates You May Like</h2>
-<ul>
-  <li>🦷 <a href="https://themixly.com/themes/dental-clinic-react-nextjs-template/" target="_blank">DentalClinic – Dental Clinic Website Template</a></li>
-  <li>🍰 <a href="https://themixly.com/themes/gourmet-food-react-one-page-template/" target="_blank">RolayeDelights – Food Website Template</a></li>
-  <li>🏗️ <a href="https://themixly.com/themes/construction-company-react-nextjs-template/" target="_blank">Buildify – Construction Website Template</a></li>
-</ul>
+---
 
-<p>Explore more templates → <a href="https://themixly.com/themes" target="_blank">Themixly Themes</a></p>
+## 📁 Project Structure (high level)
 
-<footer>
-  © 2025 Themixly. All rights reserved. | Built with ❤️ for developers & designers.
-</footer>
+```text
+src/
+  assets/
+    images/
+      herobg.jpeg        # Hero background
+      brand.png          # About/vision image
+      ...other dish images
+  components/
+    Header.tsx           # Top navigation
+    Hero.tsx             # Hero section with CTA & scroll indicator
+    About.tsx            # Vision/story, stats, brand image
+    Menu.tsx             # Menu highlight section
+    Chefs.tsx            # Chef spotlight section
+    ReviewForm.tsx       # Contact / review form
+    Footer.tsx           # Footer
+  pages/
+    Index.tsx            # Home page – assembles all sections
+```
 
-</body>
-</html>
+The home page (`Index.tsx`) defines the order of sections and their HTML IDs, so navigation and smooth scrolling stay in sync.
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- **Node.js** 18+ (recommended)
+- **npm** (bundled with Node) or `pnpm`/`yarn` if you prefer
+
+### Installation
+
+```bash
+# Clone the repo
+git clone <your-repo-url>.git
+cd Restaurant-LandingPage
+
+# Install dependencies
+npm install
+```
+
+### Development
+
+```bash
+npm run dev
+```
+
+Then open the URL shown in the terminal (typically `http://localhost:5173`).
+
+### Production build
+
+```bash
+npm run build
+npm run preview
+```
+
+---
+
+## 🧩 Customization
+
+- **Branding**
+  - Update logo and brand imagery in `src/assets/images/`
+  - Adjust restaurant name and tagline in `Hero.tsx` and `About.tsx`
+- **Content**
+  - Modify hero copy, about text, and stats in `Hero.tsx` and `About.tsx`
+  - Add or update dishes in `Menu.tsx`
+  - Update chef details in `Chefs.tsx`
+- **Styling**
+  - Tailwind utility classes are used throughout components
+  - Global Tailwind config (colors, fonts, etc.) can be adjusted in `tailwind.config.js`
+
+---
+
+## 📸 Screenshots
+
+> Replace the placeholders below with real screenshots from your build.
+
+- **Hero & navigation** – `src/assets/screenshots/heronavigation.png`
+- **Vision section** – `src/assets/screenshots/vision.jpeg`
+- **Best Sellers** – `src/assets/screenshots/bestsellers.jpeg`
+- **Contact Us** – `src/assets/screenshots/contactus.jpeg`
+
+---
+
+## 📄 License
+
+Specify your license here (for example):
+
+`MIT License` – feel free to use, adapt, and customize this template for your own restaurant or food brand.
+
