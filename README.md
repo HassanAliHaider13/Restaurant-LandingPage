@@ -134,8 +134,6 @@ npm run preview
 
 ## 📸 Screenshots
 
-> Replace the placeholders below with real screenshots from your build.
-
 - **Hero & navigation** – `src/assets/screenshots/heronavigation.png`
 - **Vision section** – `src/assets/screenshots/vision.jpeg`
 - **Best Sellers** – `src/assets/screenshots/bestsellers.jpeg`
@@ -144,8 +142,6 @@ npm run preview
 ---
 
 ## 📄 License
-
-Specify your license here (for example):
 
 `MIT License` – feel free to use, adapt, and customize this template for your own restaurant or food brand.
 
