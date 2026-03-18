@@ -144,7 +144,7 @@ const ReviewForm = () => {
                     placeholder={
                       contactType === "email"
                         ? "your.email@example.com"
-                        : "+1 (555) 123-4567"
+                        : "+92 123-4567"
                     }
                   />
                 </div>

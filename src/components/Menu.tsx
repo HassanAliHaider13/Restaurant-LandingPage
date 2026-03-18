@@ -25,44 +25,44 @@ interface MenuSection {
 // Menu sections data - matches the design from the image
 const MENU_SECTIONS: MenuSection[] = [
   {
-    title: "HALF DISHES",
+    title: "Special DISHES (Half/Full)",
     items: [
       {
-        name: "Aseel Desi Chicken (Special)",
+        name: "Aseel Desi Murgh Chane (Special)",
         description: "Unique Flavor with firm and lean texture",
-        price: "Rs 400",
+        price: "Rs 550/1000",
       },
       {
-        name: "Golden Desi Chicken",
+        name: "Aseel Desi Murgh Qourma (Special)",
         description: "Rich and Aromatic Pakistani Curry",
-        price: "Rs 200",
+        price: "Rs 450/900",
       },
       {
-        name: "Haleem",
+        name: "Golden Desi Murgh Qourma",
         description: "Rich and Heartily Flavor",
-        price: "Rs 150",
+        price: "Rs 250/400",
       },
     ],
     // image: MenuChickenHalf, // Uncomment when image is added
     imagePosition: "top-right",
   },
   {
-    title: "FULL DISHES",
+    title: "DISHES (Half/Full)",
     items: [
       {
-        name: "Aseel Desi Chicken (Special)",
+        name: "Haleem",
         description: "Unique Flavor with firm and lean texture",
-        price: "Rs 800",
+        price: "Rs 200/350",
       },
       {
-        name: "Golden Desi Chicken",
+        name: "Chane / Anda Chane",
         description: "Rich and Aromatic Pakistani Curry",
-        price: "Rs 350",
+        price: "Rs 150/210",
       },
       {
-        name: "Chanay / Anda Chanay",
-        description: "Rich and Heartily Flavor",
-        price: "Rs 140 / 200",
+        name: "Organic / Desi Eggs",
+        description: "Rich and Healthy",
+        price: "Rs ___",
       },
     ],
     // image: MenuChickenFull, // Uncomment when image is added
@@ -77,7 +77,7 @@ const MENU_SECTIONS: MenuSection[] = [
       },
       {
         name: "Doodh Patti",
-        price: "Rs 90",
+        price: "Rs 100",
       },
       {
         name: "Lassi",
